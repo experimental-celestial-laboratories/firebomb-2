@@ -1,0 +1,13 @@
+name = "Simple Clouds"
+filename = "simpleclouds-0.6.3+1.20.1-forge-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LtZfKhel/versions/rTj593Ky/simpleclouds-0.6.3%2B1.20.1-forge-all.jar"
+hash-format = "sha512"
+hash = "9be26bc7b8eb16aaf99491f10427fe5079e9a2e0e0ab72693252a6ff8e13b93ec1c42648bd94c6736b6ba20786d12ac03794d53507f5be965e1f7a9b2c5b3088"
+
+[update]
+[update.modrinth]
+mod-id = "LtZfKhel"
+version = "rTj593Ky"

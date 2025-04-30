@@ -21,6 +21,11 @@ hash = "e030c84f53457251e6dfdc76edbd9ff126ba0ff1216bca366bd7cbbd1807174d"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "34a8b17402001af5e632d093606e322bb0cb72cb4dd2c9d66b3ecbbaf5a5e42f"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "b218a766c81c7f0c4420db2f42d7b3f06831c124d2828247dd3ba4dd2ac8d759"
 metafile = true
@@ -33,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a7fa7c681c6bbc5d614b527c7f234153af5a54686013282ae918f8c1e41dfc23"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "a682bb29719e83706ec7477b751855fc21e63ee948108665f5aeddf3564263db"
 metafile = true
 
 [[files]]
@@ -311,6 +321,11 @@ hash = "82c14c871a671e5f0f9f6857971ab5a6549317f929ce2150a95da0879249cedf"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "7b99af69051b8e607d955c53d77acb62d74899b8f83ada62750a3e3baa3417c8"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
@@ -387,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/solstice-essentials.pw.toml"
-hash = "2ef303d64ce5e7c01f3d6519c780da8e4b53c7f79ea258624af91c63b995bc0c"
+hash = "ebf96e6be72d1bf830140ba4de46360bc37a500e800fb3aacfca66118345a3b0"
 metafile = true
 
 [[files]]
@@ -418,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "8d4d808fa092332307d9170da31f657bee932aa736db308768fd9901825e3c41"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "537c73cbdd7bcc79237de89d84c305fffac19014e3f037dd6dca57b3147fa0cf"
 metafile = true
 
 [[files]]

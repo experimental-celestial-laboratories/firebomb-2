@@ -1,5 +1,6 @@
 name = "solstice-essentials"
 filename = "solstice-1.8.0+1.20.1.jar"
+side = "server"
 
 [download]
 url = "https://github.com/scmcgowen/Solstice/releases/download/v1.8.0/solstice-1.8.0+1.20.1.jar"

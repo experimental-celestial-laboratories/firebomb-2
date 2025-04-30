@@ -1,8 +1,7 @@
 name = "solstice-essentials"
 filename = "solstice-1.8.0+1.20.1.jar"
-side = "server"
 
 [download]
 url = "https://github.com/scmcgowen/Solstice/releases/download/v1.8.0/solstice-1.8.0+1.20.1.jar"
 hash-format = "sha256"
-hash = "9d38d0f5c41b55864fd04162832a6b5aa9197caeba9794d15eb6064c013eab0c"
+hash = "e3f1181734f4cf521af970f89f9667654320395710839928e3cfeab5a76a7e04"

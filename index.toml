@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "34a8b17402001af5e632d093606e322bb0cb72cb4dd2c9d66b3ecbbaf5a5e42f"
+hash = "3a3a880656d5485540693743fef4b12d3b1a940f8c93d498d07a5d4844368639"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "a682bb29719e83706ec7477b751855fc21e63ee948108665f5aeddf3564263db"
+hash = "bfefb0134a8a0a36d13e7370f56d99017feba7b759ecca019679a051f87ef079"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
+hash = "6145d175368a1bdeb125c9dc03c5e31edc5d7e34b404e228451ca4238d8af5be"
 metafile = true
 
 [[files]]
@@ -322,12 +322,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "7b99af69051b8e607d955c53d77acb62d74899b8f83ada62750a3e3baa3417c8"
+hash = "8f9760a769c01990b3c0ec45bc69c1f04de059b4589065896e4a0c7ecaf162f0"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
+hash = "d29b209fde3072e8307f59278e949d103da853ff8ed62bf1f367338d5f4acc77"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-clouds.pw.toml"
-hash = "fa96a04ad053f4b7c97f6b2f31e75e678e7b7062745affe77b3e85c4a4cf1372"
+hash = "fa01bf45ec4e0911dee256fef0ff4dff66524d24edf2c0ae9c9eace86249a60a"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "537c73cbdd7bcc79237de89d84c305fffac19014e3f037dd6dca57b3147fa0cf"
+hash = "b40da73c75e7e5634bab204a45c7de4b5daa860f84bd433874280a75a98e39f4"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "3fa9427d7f7a8f3630dffdaff70702286302905b095010404f43d01129446efc"
+hash = "e111183fc1518fd621016ee030289bb081eaa89b1167e6c013798c2608edff46"
 metafile = true
 
 [[files]]

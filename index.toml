@@ -116,6 +116,11 @@ hash = "92ea21478d2958ab834a2e790221c89b306e71e94d486e8032e120b3cb440706"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "16f04b164b9781d05acecada11db618dc48568545d4c9dcc8120c55008c200ed"
 metafile = true
@@ -278,6 +283,66 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "98e80b668f218a6c1da83468e5798666f1e84fc34a8c844a29c3fe485422f11f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-biomes-o-plenty.pw.toml"
+hash = "5f3ba094b0749e8c36db799af145e8cb89ffe1b97abb567184fe577ed611de2c"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "e4f414ece2ec81f6dd2dfb8c0176670a576b988f60c8b45a1f4b749b4d008c9d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "c671e975aad1c5aeeb6ddd19894baa899334cc266001402c1a956f83c465cc34"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "454c8dd01b9f5e9b9288f37230dd0e38b7a2bba8d14bf4adce738185626191bd"
+metafile = true
+
+[[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "c2b6ff731ec50589e048a1b424bed73d3d3498cc99b3588db6c224465bb82454"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "df562b78542f19d3855a65bc9790662bbeaaed52ebd491a9ebce67882b9d537a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "5ca76dcdb8448783ed3bb933ee2cefd017406d946b1b5adf7550ba7bcffe0932"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "1a621ba80dc3db935afe234475501a880e11a2cc96222833803e6636154f6724"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "9ec20c38e00bf7bbd5c3f173763d6c6fd9e328c8f058714cc2813c256d63898e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "0429a608d214bc097b8c67442b40b799c61026c151b9ac24a6697ce2e7f39d2d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "40d34a4deede6848d6a49a9f1cf8fdd2af9dd1de058ffeb77e247099e087621f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "bcab19f90a7b77b0c4eb0b6f30b6c43994a3305cbfae6d2768ec8cb6203ed045"
 metafile = true
 
 [[files]]

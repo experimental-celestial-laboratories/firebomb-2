@@ -11,6 +11,11 @@ hash = "c37262a4fcca9888988e19001ec695e27193015014ff102775abf08fa6176e81"
 metafile = true
 
 [[files]]
+file = "mods/advanced-chimneys.pw.toml"
+hash = "fd6af9dc0498d2ea8d43a55a2cfbc4dc5b524c70062dc2a0ff4481a3d5c5dd88"
+metafile = true
+
+[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "11eacbf8ef6da0d01e65c63baf8fc4b21acc22145b51d40b1d2b23c035a51f94"
 metafile = true
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "a6d90fdd7e5533b2dfda259d8c073e80c381e82cc52e8dbe3cec7fedcbacd9e7"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "6d369d90dac6730c6faa243bf73d00d9945e2a932c9c031eb7619d979eaebe8d"
 metafile = true
 
 [[files]]
@@ -171,6 +181,11 @@ hash = "c13cf3374695e038c258949a0ad2c10eeaa8c53695038317339c52938085ed23"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "2fcea0bdf1c046a408cf5b2fb163a0cfbb826ba221a0fa1bec74e4df25b040ff"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "a91037875b9bea46391043aabf41e5f2ed05c5fcf340dcf2d551a66fca656de7"
 metafile = true
@@ -186,8 +201,23 @@ hash = "8c1b55d29559d89437272f58baee1d142898b0a1a2a105f0d419cef208c3ce3d"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "14ddf6bc740ded7825a455f90f0045ed3b4c2e65168565715daaff8532da5dbd"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "e08a5cdd6ad9a3205e6f420afb635b55b43c09b256aa3bc707dc2083fd575e4c"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
+metafile = true
+
+[[files]]
+file = "mods/esf.pw.toml"
+hash = "96081096586e12d56e1aca800c43d1c308363968bf728d9df4076b325c602904"
 metafile = true
 
 [[files]]
@@ -226,6 +256,11 @@ hash = "4acc2c7bde66e6cd4940978ce206bde20e2ce512b1bd2c3f669864555fa79a1a"
 metafile = true
 
 [[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "628b59d31760869883fc30bcad9708d48301bf1766e66f2ec67299017a65e478"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "89c1eaf2cc199185e00f5b2f0b385459692fd10824e883d2ac7b6dcf3e96cc08"
 metafile = true
@@ -238,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "7cc69ad3275b3381880489f207f2488f9afdca47033b3c65ff3e65ed8b159f32"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "b5155604a98bb5fd86e378ebe636030ed76d799d83f98a9dbbbfcb534f503d30"
 metafile = true
 
 [[files]]
@@ -401,8 +441,23 @@ hash = "08169daf5277221516aa5b0dd07d95ecbc4ca3710b6b02b951fb6fc21b225901"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "db5c53b3927b1b88928097916cf7d07f9ce8c787259f1f8625dd4b65435b7ae0"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "8e7de616ed5eaba305502d2b7711b7e38353f6e7bcbf3dabd97565a2e7bdca73"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "a91243794b0809cacc2c940302f464ba07e55bdc41cf2ec333e0a9a28747dc5f"
 metafile = true
 
 [[files]]
@@ -488,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "a10e24bb517463057a5b24f745a171603a75acde9269b61be913591a3f76ad97"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "cdbe6207162da5207c2d24fefc7d644c1b998d1f4de3a182daeb02bed6c499e5"
 metafile = true
 
 [[files]]

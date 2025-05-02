@@ -1,0 +1,13 @@
+name = "[ESF] Entity Sound Features"
+filename = "entity_sound_features_forge_1.19.4+-0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IMuO8COj/versions/xB2kHwnQ/entity_sound_features_forge_1.19.4%2B-0.4.jar"
+hash-format = "sha512"
+hash = "217f67f375e704a880882190c6d10f7383aaaa4f08cc3f5eb56c60185b20595ed5322882fcc6156b2d5947f86b4955e81a971d3903e82633a331954d5af11590"
+
+[update]
+[update.modrinth]
+mod-id = "IMuO8COj"
+version = "xB2kHwnQ"

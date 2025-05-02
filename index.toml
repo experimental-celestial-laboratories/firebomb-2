@@ -326,6 +326,11 @@ hash = "98e80b668f218a6c1da83468e5798666f1e84fc34a8c844a29c3fe485422f11f"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "f8b4210300a8f2ce76a2329de37f2e671ac5dfeca17018528cadb333b019a814"
+metafile = true
+
+[[files]]
 file = "mods/macaws-biomes-o-plenty.pw.toml"
 hash = "5f3ba094b0749e8c36db799af145e8cb89ffe1b97abb567184fe577ed611de2c"
 metafile = true

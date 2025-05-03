@@ -1,13 +1,13 @@
 name = "Macaw's Biomes O' Plenty"
-filename = "mcwfencesbop-1.20-1.2.jar"
+filename = "mcwbiomesoplenty-1.20.1-1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Tanquv9C/versions/POJtavWu/mcwfencesbop-1.20-1.2.jar"
-hash-format = "sha512"
-hash = "02936d2d35d6c5f25f34cc1c452cd475fd3c7920cf8528222328a21f54372af30a4391f6d0b302a50f67b4c658683ebb5c7715ce835ab67b1db762cbb11c2136"
+url = "https://cdn.modrinth.com/data/Tanquv9C/versions/FEXSWGhh/mcwbiomesoplenty-1.20.1-1.0.jar"
+hash-format = "sha256"
+hash = "54f5c485846ab106784eec4a441420837eb0e9e0a8b2438e6f16e8b1442303b9"
 
 [update]
 [update.modrinth]
 mod-id = "Tanquv9C"
-version = "POJtavWu"
+version = "FEXSWGhh"

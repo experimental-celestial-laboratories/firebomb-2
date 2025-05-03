@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/W6ROj0Hl/versions/W6d0pCyu/iChunUtil-1.20.1-Forge-1.0.3.jar"
-hash-format = "sha512"
-hash = "680706f314c57b219f352631da8d2f9b948d1439d73e4dae83dbfd1180dfd0d646db67c7ef8683d6c2ffd90221a5e9838151ab3a4bcaabe31f64b4bed71e564c"
+hash-format = "sha256"
+hash = "31ee649f34ff9c7a51d4d1b80f438a49a0387bd544b0a5cdc96e039d90f134c5"
 
 [update]
 [update.modrinth]

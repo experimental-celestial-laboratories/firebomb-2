@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/iP3wH1ha/versions/BKaABdta/mcw-stairs-1.0.1-1.20.1forge.jar"
-hash-format = "sha512"
-hash = "21632ee3d07aeb2f25bb676f172609bd1c99da409b70ad156198a589af8cda21ef93820754d5e13b626b4a67f13eb771b831237fede9d330d96adc9c67abfd39"
+hash-format = "sha256"
+hash = "2e79425f5dfe585947270063f71e4fc14ef59f1bcd6911a489e879121e1e0b94"
 
 [update]
 [update.modrinth]

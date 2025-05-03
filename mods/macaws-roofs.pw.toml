@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/B8jaH3P1/versions/9Q45nZes/mcw-roofs-2.3.1-mc1.20.1forge.jar"
-hash-format = "sha512"
-hash = "d591089cd07ab07c0963f8ebce5d0c8513261a0357ae2f84ee6563bf2d2c53c6ff8d7eeb37177a083030a6231fbbeebc4d87a018eec18743a1dcdd634eeb0c24"
+hash-format = "sha256"
+hash = "22585f58e8384b41bc50e20ee25f79d01b57501ea7256e5400365340ee56be1f"
 
 [update]
 [update.modrinth]

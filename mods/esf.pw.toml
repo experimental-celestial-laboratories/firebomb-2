@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/IMuO8COj/versions/xB2kHwnQ/entity_sound_features_forge_1.19.4%2B-0.4.jar"
-hash-format = "sha512"
-hash = "217f67f375e704a880882190c6d10f7383aaaa4f08cc3f5eb56c60185b20595ed5322882fcc6156b2d5947f86b4955e81a971d3903e82633a331954d5af11590"
+hash-format = "sha256"
+hash = "8c5fd4530eaaffd4286bc843d45126c8bcc576da91ed4ae1b742a2d4652f744a"
 
 [update]
 [update.modrinth]

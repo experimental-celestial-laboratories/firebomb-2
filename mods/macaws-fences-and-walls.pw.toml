@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/GmwLse2I/versions/p0mowM7n/mcw-fences-1.2.0-1.20.1forge.jar"
-hash-format = "sha512"
-hash = "0c34a3919bdfeebe8e57f8b1e8097e0532a7710b91ff3ed0c18603e424c166ef65fee7cbb62f37113cadc6ad6b25ca9bb897e78465649e82128eb0b79d8f36f0"
+hash-format = "sha256"
+hash = "6fe3bc1e2bb26854e2f0f62bacbaea518b4681b342fca52d2ce6c595775c4c88"
 
 [update]
 [update.modrinth]

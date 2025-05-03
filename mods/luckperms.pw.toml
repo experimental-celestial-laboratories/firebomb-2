@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Vebnzrzj/versions/AudvOzqV/LuckPerms-Forge-5.4.102.jar"
-hash-format = "sha512"
-hash = "762256001b0f2037f9d80911ba32ef2c9eaad72b256a9d2ad4e57fc289423ea8018d0751581ecd8f23f6855fd96dec1fd671c43406f9df54fcf20626f518c062"
+hash-format = "sha256"
+hash = "935beff65a4d248880e004ccb5fc2f1cc5d63d3f24870ff8d472cbefa31016da"
 
 [update]
 [update.modrinth]

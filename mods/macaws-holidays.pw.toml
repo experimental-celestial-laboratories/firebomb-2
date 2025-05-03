@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rH20L2Lp/versions/BxIc7JK1/mcw-holidays-1.1.0-mc1.20.1forge.jar"
-hash-format = "sha512"
-hash = "82613772349cb15b3cc964a5669486c2f70f8a5afa2addbb07bad55aa5c0e5cc7ce837bb78043d290e7bd7e8a3ca334ac6b47fada5921414161918608e66b69b"
+hash-format = "sha256"
+hash = "98970c0aa273632d47aec86e8fd6ab941082a97697cc8e2787d5373878adc35d"
 
 [update]
 [update.modrinth]

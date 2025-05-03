@@ -286,6 +286,11 @@ hash = "0a233cb72f29e14abe4a89e364362a1cdfd6cc65c554ee2bdbcd5b18c5352c47"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "fb01bfe36262e48cb1e11eedcd5421f67c58dce3f5bc9d69ef32a1aa2156449e"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "c5420670cfbcfcbe6f37d317b2eac1c08999029954ab7ff12bccec91266e0934"
 metafile = true
@@ -638,6 +643,11 @@ metafile = true
 [[files]]
 file = "mods/tis3d.pw.toml"
 hash = "6c538c40884b4089d7928c6302ede29c87394cdba41b5b652e2cfc6e4587a4d6"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
 metafile = true
 
 [[files]]

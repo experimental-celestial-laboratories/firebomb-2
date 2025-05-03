@@ -276,11 +276,6 @@ hash = "02bc5d2a59fe57ab53f84ba70673f4a99fca7489c52a0a0fa3a141ce95be5e12"
 metafile = true
 
 [[files]]
-file = "mods/glitchcore.pw.toml"
-hash = "9c6af114c9a0b1249bccba2d2af147190df62b7caceda64240e88aa824d7fbe3"
-metafile = true
-
-[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "7cc69ad3275b3381880489f207f2488f9afdca47033b3c65ff3e65ed8b159f32"
 metafile = true
@@ -343,11 +338,6 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "8c8abc7861589020c92fae9ef46935f20f0c6d8f834a696245e5a8f724262e5b"
-metafile = true
-
-[[files]]
-file = "mods/macaws-biomes-o-plenty.pw.toml"
-hash = "784e6cf2fd1bd4673e946e88db47282a645214d26406ba6291a7c7069c1e4919"
 metafile = true
 
 [[files]]

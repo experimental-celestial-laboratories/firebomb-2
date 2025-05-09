@@ -1,0 +1,13 @@
+name = "WorldEdit CUI (Forge)"
+filename = "WorldEditCUI-1.20+01.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lOELapP1/versions/SRJCpmta/WorldEditCUI-1.20%2B01.jar"
+hash-format = "sha256"
+hash = "6e1edd597a62bd70b552925b0d97fcee4527d93300d107554aaf087b98348f09"
+
+[update]
+[update.modrinth]
+mod-id = "lOELapP1"
+version = "SRJCpmta"

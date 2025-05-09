@@ -666,6 +666,16 @@ hash = "3bd90c5823bbb29011ed66ef54fd98acfd1a76ad8e246f0e77172e9f4cc7c8e6"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "15a0f98dacca9c151c525b76ca8518f5a92939e9db957d8b0f5fe7bcf190dbec"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-forge.pw.toml"
+hash = "0d4bb4997fe4e49a78b704dc10ffc17592b1aec935794b7b4549e70a40fea7b3"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "2f4d5c23a364dcae16d359bb1fe073358aca3113027a0ab0c3af34d77c8699f9"
 metafile = true

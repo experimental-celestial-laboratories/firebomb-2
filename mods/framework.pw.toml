@@ -1,0 +1,13 @@
+name = "Framework"
+filename = "framework-forge-1.20.1-0.7.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "28ade2da0795ca36de2925e14cb5fe6b4e51ae84c149352fd9690951fe1baf87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5911986
+project-id = 549225

@@ -271,6 +271,11 @@ hash = "89c1eaf2cc199185e00f5b2f0b385459692fd10824e883d2ac7b6dcf3e96cc08"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "763f3917711039f93792ebf6a70ebe9714f5484bce3284e52e1733cfa6d62352"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "02bc5d2a59fe57ab53f84ba70673f4a99fca7489c52a0a0fa3a141ce95be5e12"
 metafile = true
@@ -506,6 +511,11 @@ hash = "6eea753e71f11501a65a93ec43c3db5546c82809bb957ed366e918beb55c6036"
 metafile = true
 
 [[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "e3ff332e78db4c3b08d390619d65a3c94abda33345e80a51db187bea10a2ec25"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "50e9caa39b4756eb7bd5c89bda22fc080bf3a455e948426e7c401c86d67a9f62"
 metafile = true
@@ -581,6 +591,11 @@ hash = "b40da73c75e7e5634bab204a45c7de4b5daa860f84bd433874280a75a98e39f4"
 metafile = true
 
 [[files]]
+file = "mods/tacz-js.pw.toml"
+hash = "bb4b33026d38720028a01608f67598e19f52cf80d0939c188116dc40e6171a29"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "7106ab6a417c8afef785cd31822d379808e7d3e2747edc09657170cecda79ba2"
 metafile = true
@@ -618,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-integration.pw.toml"
 hash = "f0896dc26f9c9c7749c51fe07d388712642f7daeb85fd6551cbf5e0e86160e47"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash = "38dc727a0b7c909648c25c826e8e8af6e142e5604bac39bdfdfa9aeb64f83434"
 metafile = true
 
 [[files]]

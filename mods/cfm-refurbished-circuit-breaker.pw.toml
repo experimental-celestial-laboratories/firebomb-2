@@ -1,0 +1,13 @@
+name = "CFM Refurbished: Circuit Breaker"
+filename = "cfm_circuit_breaker-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "fbeb43d6849fc2f85294941e3b2b9732352f339790e360e40a43625973e99850"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6064362
+project-id = 1170251

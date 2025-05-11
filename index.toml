@@ -101,6 +101,11 @@ hash = "89676417bc9db5f597ca0e71663673e9bf79903f86bd06ea70501b72e1a8efad"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "de4d96eea846ab3c896f8eeb838c5c2cfa6d4af54fbbca823db6afc7c9696ef9"
+metafile = true
+
+[[files]]
 file = "mods/cc-recrafted.pw.toml"
 hash = "ad9a7e97d1589490be5232d9550b38e5e61081cc03cd672b68547b9f4a9b4377"
 metafile = true
@@ -116,6 +121,11 @@ hash = "b62b7d369eb65db2a61e6e0488dee99ecae973c6d070b4aef6a29c59edef299e"
 metafile = true
 
 [[files]]
+file = "mods/cfm-refurbished-circuit-breaker.pw.toml"
+hash = "a5ccd7fd5db42556d9a8988f8d1edc9e5991b00e94124c9e723c97480918bd15"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "236f2dc1ed45f3b6fc303cbb19642642701dcdb70871df276b6a796533554b00"
 metafile = true
@@ -123,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "1f0ad1ed71545dd138f5f1bd258a0c9e5c66dc803a924551f36a0d8573960e90"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib.pw.toml"
+hash = "a9d9891f5cac9bbdb47241692e14bc942ae71030438d8204116b74d766f2ba7a"
 metafile = true
 
 [[files]]
@@ -258,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4acc2c7bde66e6cd4940978ce206bde20e2ce512b1bd2c3f669864555fa79a1a"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "7d7c4f18486e68559b1653cd552bd9b9e2913bdfad4405fd81c452193e905a1b"
 metafile = true
 
 [[files]]
@@ -493,6 +513,41 @@ metafile = true
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "9ab5273cf77928d4c5660a8db1ea896bd37dfeefc0124091a5cd87ad37c2636c"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "a757183f035020abf42793ee846a4fa856cf9c82094dd101684a2c3db6e89f28"
+metafile = true
+
+[[files]]
+file = "mods/project-red-expansion.pw.toml"
+hash = "d8f69e5abae1fdeb5c536ad3b4d5fe487def2b455008391f07e00b4d8b867279"
+metafile = true
+
+[[files]]
+file = "mods/project-red-exploration.pw.toml"
+hash = "f626ce3a106a6a4cce77d0d6b0c769edd26d2673bd4a196d22a5ab345cc673cf"
+metafile = true
+
+[[files]]
+file = "mods/project-red-fabrication.pw.toml"
+hash = "15d42d45b14237e8a0064ae82055a041a9895e0a386c2d37815955cc250d62a1"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.pw.toml"
+hash = "cf60c9a9acdd0c78cf2cc95accc1b8869a5c8ffa3b4ecab6bb01469eb8cc3793"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "cbe26e034701e7513f47be02d89466c3387743672afbd11614da811322fc1383"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.pw.toml"
+hash = "48147827584eb159c3c2a6020764abfc929bed62ec011dcaa2cdd504be1cc945"
 metafile = true
 
 [[files]]

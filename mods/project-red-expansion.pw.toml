@@ -1,0 +1,13 @@
+name = "Project Red Expansion"
+filename = "ProjectRed-1.20.1-4.21.0-expansion.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fn5zBLFv/versions/cSItTPWJ/ProjectRed-1.20.1-4.21.0-expansion.jar"
+hash-format = "sha256"
+hash = "125bb80586292b359589e8926127ba7c7339e3cadaac943d1da99e35c7b14a40"
+
+[update]
+[update.modrinth]
+mod-id = "fn5zBLFv"
+version = "cSItTPWJ"

@@ -1,0 +1,13 @@
+name = "[Tacz]Maxstuff"
+filename = "maxstuff-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zUHF7oUB/versions/56mJFQBs/maxstuff-1.7.1.jar"
+hash-format = "sha256"
+hash = "e88d14064ccc5941984c812adaa596fc5132ebcfc39fd9594be6840eb3388814"
+
+[update]
+[update.modrinth]
+mod-id = "zUHF7oUB"
+version = "56mJFQBs"

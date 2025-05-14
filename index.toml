@@ -181,6 +181,11 @@ hash = "244c4d955e2facc69248881e2f0bdca781a4740980447b7c77ee0df7201475f0"
 metafile = true
 
 [[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "a2d99bddd3381fe538c22b228304c129e24a37f4593b1bed36143aeb553d0e83"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "0204da2b723bde9778d7a4215b0c86b9433e2ab97382675c1c502e68946aa788"
 metafile = true
@@ -226,23 +231,8 @@ hash = "8c1b55d29559d89437272f58baee1d142898b0a1a2a105f0d419cef208c3ce3d"
 metafile = true
 
 [[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "34b0f52168685a5163012dd3542770e7b04b470f006e09b281dd4c8e4d49ad7e"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "e08a5cdd6ad9a3205e6f420afb635b55b43c09b256aa3bc707dc2083fd575e4c"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "c0ce03cf2003605ca62066fd84de70f9a15729b541de5915fd6caccba746cfc6"
-metafile = true
-
-[[files]]
-file = "mods/esf.pw.toml"
-hash = "691f659a56fcbfdc9519b8b9e0e4bbd0cfd08192e9bae2d06ad7b0c1ad6f3d41"
 metafile = true
 
 [[files]]
@@ -366,6 +356,11 @@ hash = "98e80b668f218a6c1da83468e5798666f1e84fc34a8c844a29c3fe485422f11f"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "d396e7f5645e9fb6c37270c44e521a3a9069e5dd691cf1e9ea5086d9d72d5c55"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "8c8abc7861589020c92fae9ef46935f20f0c6d8f834a696245e5a8f724262e5b"
 metafile = true
@@ -438,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/markdownmanual.pw.toml"
 hash = "dc66091e6b871705376e22943bb5e30dfef4a1caccdee844f3e3adb77a6b677c"
+metafile = true
+
+[[files]]
+file = "mods/maxstuff.pw.toml"
+hash = "3f87521c0f43264269b22362581f675b292efed7406b878affd34169f41728dc"
 metafile = true
 
 [[files]]
@@ -651,6 +651,11 @@ hash = "b40da73c75e7e5634bab204a45c7de4b5daa860f84bd433874280a75a98e39f4"
 metafile = true
 
 [[files]]
+file = "mods/tacz-endless-ammo.pw.toml"
+hash = "9eb2aab17ef9f17c27cdc6642a33326b3392cbfd6277df084e605797e8e37d86"
+metafile = true
+
+[[files]]
 file = "mods/tacz-js.pw.toml"
 hash = "bb4b33026d38720028a01608f67598e19f52cf80d0939c188116dc40e6171a29"
 metafile = true
@@ -697,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "38dc727a0b7c909648c25c826e8e8af6e142e5604bac39bdfdfa9aeb64f83434"
+hash = "9f0db54eb2688d37b1117354349f1caeef87c2fcdff465b57f21f82bcc0bb604"
 metafile = true
 
 [[files]]
@@ -728,6 +733,16 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "5e54ef10d7179200b5950e2c5705129582e981299a793f063a6428b0e65e0899"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "57642a0e1af012fdfb0e8fb75f8e5b821870845621c79c02307724f5bf9c97cb"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-structures.pw.toml"
+hash = "4871c2b47b709d1afc9cc8042525a48a07c4d43e5c186a92a0b31ef57417bed9"
 metafile = true
 
 [[files]]

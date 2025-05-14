@@ -1,13 +1,13 @@
 name = "[TaCZ] Timeless and Classics Zero"
-filename = "tacz-1.20.1-1.1.4-hotfix-all.jar"
+filename = "tacz-1.20.1-1.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SzzJttH8/versions/VIAwq0sR/tacz-1.20.1-1.1.4-hotfix-all.jar"
+url = "https://cdn.modrinth.com/data/SzzJttH8/versions/2zv2YS35/tacz-1.20.1-1.1.5.jar"
 hash-format = "sha256"
-hash = "87743f248aee19e2305a5302294d1b379a84b8b83f0611f7599fd61b5d499c5d"
+hash = "d6f38df90ca9c672fe2039a2ecd7a8d51aaef43c278fef70326d744eb7111783"
 
 [update]
 [update.modrinth]
 mod-id = "SzzJttH8"
-version = "VIAwq0sR"
+version = "2zv2YS35"

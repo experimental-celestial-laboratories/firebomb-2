@@ -1,0 +1,13 @@
+name = "[TaCZ] Endless Ammo"
+filename = "Endless Ammo Lib v1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "5abeaabd7247b6ff180c0fe83c5ba7c6c6521063d55cc286b43cff0dbf0b01fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6122872
+project-id = 1166149

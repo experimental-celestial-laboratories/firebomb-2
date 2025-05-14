@@ -276,6 +276,11 @@ hash = "7d7c4f18486e68559b1653cd552bd9b9e2913bdfad4405fd81c452193e905a1b"
 metafile = true
 
 [[files]]
+file = "mods/fixescape.pw.toml"
+hash = "ebec63804e44f1019efc0d845b67866e8d2781c4f4a3066583a0e49e76eba163"
+metafile = true
+
+[[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "7a18e3c4494fd42366d925147a582d299ecb33b191061fcae9293712446e2ecb"
 metafile = true

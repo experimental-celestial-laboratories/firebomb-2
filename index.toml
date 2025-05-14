@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-new-age.pw.toml"
-hash = "a2d99bddd3381fe538c22b228304c129e24a37f4593b1bed36143aeb553d0e83"
+hash = "115bde3fde63e3c3fd12c70fc8226b659314e876a3bc183d0f199a061dd08faf"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/tacz-js.pw.toml"
-hash = "bb4b33026d38720028a01608f67598e19f52cf80d0939c188116dc40e6171a29"
+hash = "73854299d90392ad76e806aa35e11cb5b7b2359f6adb4244fa62b751acab421d"
 metafile = true
 
 [[files]]

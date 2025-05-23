@@ -231,6 +231,11 @@ hash = "8c1b55d29559d89437272f58baee1d142898b0a1a2a105f0d419cef208c3ce3d"
 metafile = true
 
 [[files]]
+file = "mods/ender-storage.pw.toml"
+hash = "d64807232350099ad0613061f5f877b06046540c088bf8248cca9870b7d0d123"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "e08a5cdd6ad9a3205e6f420afb635b55b43c09b256aa3bc707dc2083fd575e4c"
 metafile = true

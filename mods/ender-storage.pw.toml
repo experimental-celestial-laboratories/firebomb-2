@@ -1,0 +1,13 @@
+name = "Ender Storage"
+filename = "EnderStorage-1.20.1-2.11.0.188-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BbrHg80P/versions/pTEnM5jC/EnderStorage-1.20.1-2.11.0.188-universal.jar"
+hash-format = "sha256"
+hash = "cb6d1c4594f61e89fab2b9e16daffecfab8bab25936684a2d75f2f0fe6eb028f"
+
+[update]
+[update.modrinth]
+mod-id = "BbrHg80P"
+version = "pTEnM5jC"

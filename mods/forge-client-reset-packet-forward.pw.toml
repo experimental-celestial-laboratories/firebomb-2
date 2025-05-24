@@ -1,6 +1,6 @@
 name = "Forward- Forge-Client-Reset-Packet"
 filename = "ForgeClientResetPacket-0.3.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha256"

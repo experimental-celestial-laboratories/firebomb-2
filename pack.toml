@@ -8,6 +8,7 @@ file = "index.toml"
 hash-format = "sha256"
 hash = "e48b96e799ff2b013247477b326fe15ebebdc418b87052d8deb5fb822192dea9"
 
+
 [versions]
 minecraft = "1.20.1"
 neoforge = "47.1.106"

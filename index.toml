@@ -286,6 +286,11 @@ hash = "ebec63804e44f1019efc0d845b67866e8d2781c4f4a3066583a0e49e76eba163"
 metafile = true
 
 [[files]]
+file = "mods/forge-client-reset-packet-forward.pw.toml"
+hash = "e199840bb7d644d6abb3bf439be88344c5a164eb505fe169a748fbd25774cfd2"
+metafile = true
+
+[[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "7a18e3c4494fd42366d925147a582d299ecb33b191061fcae9293712446e2ecb"
 metafile = true

@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-client-reset-packet-forward.pw.toml"
-hash = "e199840bb7d644d6abb3bf439be88344c5a164eb505fe169a748fbd25774cfd2"
+hash = "778115b43e37112494b5e316b492c14d9938371da9026072274e35eb9100ed64"
 metafile = true
 
 [[files]]

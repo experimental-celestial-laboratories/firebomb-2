@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/continents.pw.toml"
-hash = "1ecaad2251a9a54fabefb3786ec27a3d0856c03f8e49278f201a7cc317595d2c"
+hash = "05d1de6e8c7baab6053a4972df87c35ea0abf5574a12fcfc386e9a604cdc76a5"
 metafile = true
 
 [[files]]
@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "3d344bbdae049b22f4152a9670a928e0042f107dea458a53805ea919ebb682a3"
+hash = "d0b4fd0c3de094923c1370e6d6388c61356a15ab84db2217daacff4b754b4493"
 metafile = true
 
 [[files]]

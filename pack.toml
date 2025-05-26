@@ -6,12 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
 hash = "e48b96e799ff2b013247477b326fe15ebebdc418b87052d8deb5fb822192dea9"
-
-=======
-hash = "e7529ab0800392d005d85f24711dd098edbf7d84dbd299d275ad0b80403f1d0f"
->>>>>>> 8b9be3a (Force forge packet forwarder to be client side only)
 
 [versions]
 minecraft = "1.20.1"

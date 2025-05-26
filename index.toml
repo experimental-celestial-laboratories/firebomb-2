@@ -225,6 +225,11 @@ hash = "654acdaf8617c80b24942a7b035d7345d60f7e8264f430f2ffb55bb4ac1d4c8e"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "966ce54e14ca31ff2deebe62be5258bb7979f3d2d1278690386ec5e6bfd6128e"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "a91037875b9bea46391043aabf41e5f2ed05c5fcf340dcf2d551a66fca656de7"
 metafile = true

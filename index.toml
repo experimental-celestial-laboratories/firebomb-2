@@ -171,6 +171,11 @@ hash = "e6685c1c91fbed4ba2480f36a17516bf0ac2b39417f17c868b84a8798e421905"
 metafile = true
 
 [[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "21bc1f40d4d755d1644c10eb0985af19525d209d1343b036fd00ed8785376fe6"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "8afc863a183d0e874395844fb54966ca84a3bf069f0cfd16b30115e2c92f939a"
 metafile = true
@@ -238,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "e08a5cdd6ad9a3205e6f420afb635b55b43c09b256aa3bc707dc2083fd575e4c"
+metafile = true
+
+[[files]]
+file = "mods/etched.pw.toml"
+hash = "0d6fe1cd77e152ac4a8ecb9499fcdf8b419fac33a29330bab1b163753a6117cb"
 metafile = true
 
 [[files]]
@@ -368,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "98e80b668f218a6c1da83468e5798666f1e84fc34a8c844a29c3fe485422f11f"
+metafile = true
+
+[[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "8a75aa31fbb9a900d3fd0963a210d383c85a3c164cc53cbe2a61e8ef8278a0b3"
 metafile = true
 
 [[files]]
@@ -621,6 +636,11 @@ hash = "fa01bf45ec4e0911dee256fef0ff4dff66524d24edf2c0ae9c9eace86249a60a"
 metafile = true
 
 [[files]]
+file = "mods/simple-radio.pw.toml"
+hash = "78f108f9bfdd6a2cfe5dee3d5dc242473e7749fb5f235cfc22a80ba0cbc77be7"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "094181bcda73fc493b37fa08dbe0305968c9381643b6924a23c038115ba26fcb"
 metafile = true
@@ -753,6 +773,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "5e54ef10d7179200b5950e2c5705129582e981299a793f063a6428b0e65e0899"
+metafile = true
+
+[[files]]
+file = "mods/trackwork.pw.toml"
+hash = "b8ff607e6bda12a808f9a65e8073e8b62738ff5d26e5cee6670766f1c8904385"
 metafile = true
 
 [[files]]

@@ -506,6 +506,11 @@ hash = "8f9760a769c01990b3c0ec45bc69c1f04de059b4589065896e4a0c7ecaf162f0"
 metafile = true
 
 [[files]]
+file = "mods/more-immersive-wires.pw.toml"
+hash = "816af8fbcef21375db6251adba33ccc715c80b658cfb82a1db6aadb96126aa3b"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d29b209fde3072e8307f59278e949d103da853ff8ed62bf1f367338d5f4acc77"
 metafile = true

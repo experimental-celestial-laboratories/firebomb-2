@@ -581,17 +581,17 @@ metafile = true
 
 [[files]]
 file = "mods/rcc-chatbox.pw.toml"
-hash = "a4fc597dce2838effeedc93c413a8cf8ec6882d762464d8cf9c588c5e94ab50d"
+hash = "ac5c6465b2615a3437d07645befb011f123ea9d15108f71bcc6145882ea07b25"
 metafile = true
 
 [[files]]
 file = "mods/rcc-discord.pw.toml"
-hash = "ca1a40be51ff9af73245249ada56934fbc61c79bf1646275dc57f524dc68e5b9"
+hash = "6ca22a53d6b478d49fc9612edbf74f4266663483c73f1b458190e8ab99461ba9"
 metafile = true
 
 [[files]]
 file = "mods/rcc-library.pw.toml"
-hash = "4f0e510bc49433a80783990914cbf8a36e72f618389c6bc9d234c9059f0f7433"
+hash = "e831fc2532f65078ef51cbd047ea0c2cb9d45881c2e73f404bc6847458c59a31"
 metafile = true
 
 [[files]]

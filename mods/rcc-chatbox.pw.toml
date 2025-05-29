@@ -1,5 +1,6 @@
 name = "rcc-chatbox"
 filename = "rcc-chatbox-1.8.8.jar"
+side = "server"
 
 [download]
 url = "https://github.com/scmcgowen/rcc-chatbox/releases/download/v1.8.8/rcc-chatbox-1.8.8.jar"

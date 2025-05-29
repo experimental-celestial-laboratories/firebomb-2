@@ -580,6 +580,21 @@ hash = "1a15193250f49d292051ac43a1a6ec5fc91afde1df6ea146ee28257eb6cc3902"
 metafile = true
 
 [[files]]
+file = "mods/rcc-chatbox.pw.toml"
+hash = "ac5c6465b2615a3437d07645befb011f123ea9d15108f71bcc6145882ea07b25"
+metafile = true
+
+[[files]]
+file = "mods/rcc-discord.pw.toml"
+hash = "6ca22a53d6b478d49fc9612edbf74f4266663483c73f1b458190e8ab99461ba9"
+metafile = true
+
+[[files]]
+file = "mods/rcc-library.pw.toml"
+hash = "e831fc2532f65078ef51cbd047ea0c2cb9d45881c2e73f404bc6847458c59a31"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "49236bcb266c48ddb15c43e2e5aeeec2eae26ad74e20e69b314ebf088a585678"
 metafile = true

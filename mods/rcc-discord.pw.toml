@@ -1,0 +1,7 @@
+name = "rcc-discord"
+filename = "rcc-discord-1.8.4.jar"
+
+[download]
+url = "https://github.com/scmcgowen/rcc-discord/releases/download/v1.8.4/rcc-discord-1.8.4.jar"
+hash-format = "sha256"
+hash = "4bb771d348ef84434b6132a9aa5041077af64fca43f968398cda4e977a00b776"

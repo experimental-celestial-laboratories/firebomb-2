@@ -1,6 +1,6 @@
 name = "Firebomb 2"
 author = "Khorne & Hri7566"
-version = "0.1"
+version = "0.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]

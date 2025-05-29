@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "2.3.0"
+hash = "82b9397e60403daeaf50eef38532259af74a7abc16947bd80072156482f3f0f2"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "54660ceff6be82a6212feeff38a2599a9b20176a6a0d9526891e7858c2cd9b10"
 metafile = true
@@ -497,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "db5c53b3927b1b88928097916cf7d07f9ce8c787259f1f8625dd4b65435b7ae0"
+hash = "98ac35c1b77ccf03672d418b8722fb12c69010228057cbe04722371f88e70b1f"
 metafile = true
 
 [[files]]

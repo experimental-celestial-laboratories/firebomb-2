@@ -1,0 +1,13 @@
+name = "Forward- Forge-Client-Reset-Packet"
+filename = "ForgeClientResetPacket-0.3.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "591c3b6ce910c0f4bdfe7eb985537f3cfdd6b84c84bb3af67345c91980f52cf4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4808617
+project-id = 862147

@@ -261,11 +261,6 @@ hash = "e08a5cdd6ad9a3205e6f420afb635b55b43c09b256aa3bc707dc2083fd575e4c"
 metafile = true
 
 [[files]]
-file = "mods/estrogen.pw.toml"
-hash = "9e92043b5cb6db0e09fb30e003724c8bfda96f3bf9659ab4db115ce71cdb2ddb"
-metafile = true
-
-[[files]]
 file = "mods/eureka.pw.toml"
 hash = "0fa00aa7f1927617af2961b1203e93f433f0b652aaa8681af47693913c4ae2d5"
 metafile = true
@@ -543,11 +538,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "417bb12a48b83f74f9973374cc1f05e6c8caf064c68ea7f589e28aa2b1aa01bc"
-metafile = true
-
-[[files]]
-file = "mods/nuclearcraft-neoteric.pw.toml"
-hash = "27cd553fdf097e8e4a9b3079631f135e00c6304a31b046b86626ca1dbc9d4541"
 metafile = true
 
 [[files]]

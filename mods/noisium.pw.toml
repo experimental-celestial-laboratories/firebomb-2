@@ -1,13 +1,8 @@
-name = "Noisium"
-filename = "noisium-merged-2.0.1+mc1.20.x.jar"
+name = "noisium"
+filename = "noisium-forge-2.3.0+mc1.20-1.20.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar"
+url = "https://github.com/Steveplays28/noisium/releases/download/v2.3.0%2Bmc1.20-1.20.1/noisium-forge-2.3.0+mc1.20-1.20.1.jar"
 hash-format = "sha256"
-hash = "85fcb2e1165d30913bf1453502997aa389bc13a92b5dc57645199d808d7e51b2"
-
-[update]
-[update.modrinth]
-mod-id = "KuNKN7d2"
-version = "AfjBJbK1"
+hash = "b0b020250c81e8cce7776c3dc8f7085f269e2007570d5fbd492c4497ad60685c"

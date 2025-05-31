@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/lexiconfig.pw.toml"
-hash = "99df2baa7c1e306b5f53a18de644cf1abde256ee9becf968bbd4882d7e8957fd"
+hash = "e609ad567464af00f1a7921decc51c83949368adc92e671c7b66fe113d8a3c52"
 metafile = true
 
 [[files]]

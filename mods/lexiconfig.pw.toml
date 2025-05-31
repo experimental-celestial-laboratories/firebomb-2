@@ -1,13 +1,13 @@
 name = "Lexiconfig"
-filename = "lexiconfig-neoforge-1.4.18.jar"
+filename = "Lexiconfig-forge-1.3.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/D157Rgyf/versions/AzTj04Ef/lexiconfig-neoforge-1.4.18.jar"
+url = "https://cdn.modrinth.com/data/D157Rgyf/versions/lwVdnWWV/Lexiconfig-forge-1.3.11.jar"
 hash-format = "sha256"
-hash = "165331cb459afa6dfe9ec28672b3800d40e0903508b425d0c2981f3fe1e55afc"
+hash = "3abf8c919ee356abd7f16de09c194f1ba3792e4c4fba039f8c86a9e41f05836a"
 
 [update]
 [update.modrinth]
 mod-id = "D157Rgyf"
-version = "AzTj04Ef"
+version = "lwVdnWWV"

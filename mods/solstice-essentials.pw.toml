@@ -1,8 +1,13 @@
-name = "solstice-essentials"
-filename = "solstice-1.8.0+1.20.1.jar"
+name = "Solstice Essentials"
+filename = "solstice-1.8.1+1.20.1.jar"
 side = "server"
 
 [download]
-url = "https://github.com/scmcgowen/Solstice/releases/download/v1.8.0/solstice-1.8.0+1.20.1.jar"
+url = "https://cdn.modrinth.com/data/uIvrDZas/versions/Z1ORYeVP/solstice-1.8.1%2B1.20.1.jar"
 hash-format = "sha256"
-hash = "e3f1181734f4cf521af970f89f9667654320395710839928e3cfeab5a76a7e04"
+hash = "f6b935df121ae5859af3e15df45de3edcadd9b2f76ae9d43a3ecdac62508ea19"
+
+[update]
+[update.modrinth]
+mod-id = "uIvrDZas"
+version = "Z1ORYeVP"

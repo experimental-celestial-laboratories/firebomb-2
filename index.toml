@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "2.3.0"
-hash = "82b9397e60403daeaf50eef38532259af74a7abc16947bd80072156482f3f0f2"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "54660ceff6be82a6212feeff38a2599a9b20176a6a0d9526891e7858c2cd9b10"
 metafile = true
@@ -47,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "5813573d7391265fc1c9dc261d1d2cd36e37f3a11c77cd0b75beb215c088cd4e"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "82c20ff7db5b6994f7c34b243503e529caf3d2a1a27fbc42dd5fbea37242a6f4"
 metafile = true
 
 [[files]]
@@ -170,6 +171,11 @@ hash = "c4402050d2a686cecc112aee451709d33c7c367021e6527a3786a0c458026d8f"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "ca1280fbb281237f41f71b941abfbefc1141d436500c0d91487fb97f15251e15"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "e6685c1c91fbed4ba2480f36a17516bf0ac2b39417f17c868b84a8798e421905"
 metafile = true
@@ -255,8 +261,8 @@ hash = "e08a5cdd6ad9a3205e6f420afb635b55b43c09b256aa3bc707dc2083fd575e4c"
 metafile = true
 
 [[files]]
-file = "mods/etched.pw.toml"
-hash = "0d6fe1cd77e152ac4a8ecb9499fcdf8b419fac33a29330bab1b163753a6117cb"
+file = "mods/estrogen.pw.toml"
+hash = "9e92043b5cb6db0e09fb30e003724c8bfda96f3bf9659ab4db115ce71cdb2ddb"
 metafile = true
 
 [[files]]
@@ -391,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/lexiconfig.pw.toml"
-hash = "8a75aa31fbb9a900d3fd0963a210d383c85a3c164cc53cbe2a61e8ef8278a0b3"
+hash = "99df2baa7c1e306b5f53a18de644cf1abde256ee9becf968bbd4882d7e8957fd"
 metafile = true
 
 [[files]]
@@ -540,8 +546,18 @@ hash = "417bb12a48b83f74f9973374cc1f05e6c8caf064c68ea7f589e28aa2b1aa01bc"
 metafile = true
 
 [[files]]
+file = "mods/nuclearcraft-neoteric.pw.toml"
+hash = "27cd553fdf097e8e4a9b3079631f135e00c6304a31b046b86626ca1dbc9d4541"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "3bd4bb860f401e15bd39661fc1fd41c15601bd8200d0a78df59ba68174a8d52e"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "66251b8f4e40ff56445c41b7d802e16d95de5609315011094f9258cdb8313f2b"
 metafile = true
 
 [[files]]
@@ -660,8 +676,13 @@ hash = "094181bcda73fc493b37fa08dbe0305968c9381643b6924a23c038115ba26fcb"
 metafile = true
 
 [[files]]
+file = "mods/solstice-economy.pw.toml"
+hash = "5b4a62d38d9b4484059277ac7f9bca6d62f27856d1ccacf33b79c6c274a0875e"
+metafile = true
+
+[[files]]
 file = "mods/solstice-essentials.pw.toml"
-hash = "ebf96e6be72d1bf830140ba4de46360bc37a500e800fb3aacfca66118345a3b0"
+hash = "5390d55f902098d9ed02c1f42fca14cd310daeec4532ed68b3322f0747f31778"
 metafile = true
 
 [[files]]

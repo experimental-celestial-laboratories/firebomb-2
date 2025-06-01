@@ -506,6 +506,11 @@ hash = "0ff1622bc9c0b031c37b205ebde650a02354ff77d9c08a89121830f1df982a86"
 metafile = true
 
 [[files]]
+file = "mods/modifier-key-fix.pw.toml"
+hash = "9e75d128fbfbc0a7ae947fdc1328426f8e164aa38d1d3097f2afcd073b3c8aac"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "8f9760a769c01990b3c0ec45bc69c1f04de059b4589065896e4a0c7ecaf162f0"
 metafile = true

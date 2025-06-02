@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/solstice-economy.pw.toml"
-hash = "c96a60721f212c7957d560bb0338dabcd7175fc8495e1c78e7800d7ecb201185"
+hash = "fd1eb45f79548edc18417c83558adfee9ff45e80201e5c0ce96afcbf9fae0da3"
 metafile = true
 
 [[files]]

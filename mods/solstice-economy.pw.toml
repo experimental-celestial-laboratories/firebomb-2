@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/DvOrFxes/versions/6vPyw6Jd/solstice-economy-0.2.3.jar"
-hash-format = "sha512"
-hash = "c501ef906e2b28e0d693bae53e6a66d89c403112b12995b248939dfbd040477a42303e6d2e784f51e127fb4563867a796c9819b0177da20c2136642f661c0810"
+hash-format = "sha256"
+hash = "ab503f443417b14d24814a1e0571fe5f5aa12e4d94bdc4ccc7a6ce250ab678b7"
 
 [update]
 [update.modrinth]

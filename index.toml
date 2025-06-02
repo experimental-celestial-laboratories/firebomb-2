@@ -46,6 +46,11 @@ hash = "5813573d7391265fc1c9dc261d1d2cd36e37f3a11c77cd0b75beb215c088cd4e"
 metafile = true
 
 [[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "82c20ff7db5b6994f7c34b243503e529caf3d2a1a27fbc42dd5fbea37242a6f4"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a7fa7c681c6bbc5d614b527c7f234153af5a54686013282ae918f8c1e41dfc23"
 metafile = true
@@ -157,12 +162,17 @@ metafile = true
 
 [[files]]
 file = "mods/continents.pw.toml"
-hash = "1ecaad2251a9a54fabefb3786ec27a3d0856c03f8e49278f201a7cc317595d2c"
+hash = "05d1de6e8c7baab6053a4972df87c35ea0abf5574a12fcfc386e9a604cdc76a5"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "c4402050d2a686cecc112aee451709d33c7c367021e6527a3786a0c458026d8f"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "ca1280fbb281237f41f71b941abfbefc1141d436500c0d91487fb97f15251e15"
 metafile = true
 
 [[files]]
@@ -213,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/ding.pw.toml"
 hash = "654acdaf8617c80b24942a7b035d7345d60f7e8264f430f2ffb55bb4ac1d4c8e"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "966ce54e14ca31ff2deebe62be5258bb7979f3d2d1278690386ec5e6bfd6128e"
 metafile = true
 
 [[files]]
@@ -283,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/fixescape.pw.toml"
 hash = "ebec63804e44f1019efc0d845b67866e8d2781c4f4a3066583a0e49e76eba163"
+metafile = true
+
+[[files]]
+file = "mods/forge-client-reset-packet-forward.pw.toml"
+hash = "778115b43e37112494b5e316b492c14d9938371da9026072274e35eb9100ed64"
 metafile = true
 
 [[files]]
@@ -363,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "98e80b668f218a6c1da83468e5798666f1e84fc34a8c844a29c3fe485422f11f"
+metafile = true
+
+[[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "e609ad567464af00f1a7921decc51c83949368adc92e671c7b66fe113d8a3c52"
 metafile = true
 
 [[files]]
@@ -476,8 +501,18 @@ hash = "0ff1622bc9c0b031c37b205ebde650a02354ff77d9c08a89121830f1df982a86"
 metafile = true
 
 [[files]]
+file = "mods/modifier-key-fix.pw.toml"
+hash = "9e75d128fbfbc0a7ae947fdc1328426f8e164aa38d1d3097f2afcd073b3c8aac"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "8f9760a769c01990b3c0ec45bc69c1f04de059b4589065896e4a0c7ecaf162f0"
+metafile = true
+
+[[files]]
+file = "mods/more-immersive-wires.pw.toml"
+hash = "816af8fbcef21375db6251adba33ccc715c80b658cfb82a1db6aadb96126aa3b"
 metafile = true
 
 [[files]]
@@ -508,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "3bd4bb860f401e15bd39661fc1fd41c15601bd8200d0a78df59ba68174a8d52e"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "66251b8f4e40ff56445c41b7d802e16d95de5609315011094f9258cdb8313f2b"
 metafile = true
 
 [[files]]
@@ -631,13 +671,23 @@ hash = "fa01bf45ec4e0911dee256fef0ff4dff66524d24edf2c0ae9c9eace86249a60a"
 metafile = true
 
 [[files]]
+file = "mods/simple-radio.pw.toml"
+hash = "78f108f9bfdd6a2cfe5dee3d5dc242473e7749fb5f235cfc22a80ba0cbc77be7"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "094181bcda73fc493b37fa08dbe0305968c9381643b6924a23c038115ba26fcb"
 metafile = true
 
 [[files]]
+file = "mods/solstice-economy.pw.toml"
+hash = "c96a60721f212c7957d560bb0338dabcd7175fc8495e1c78e7800d7ecb201185"
+metafile = true
+
+[[files]]
 file = "mods/solstice-essentials.pw.toml"
-hash = "ebf96e6be72d1bf830140ba4de46360bc37a500e800fb3aacfca66118345a3b0"
+hash = "5390d55f902098d9ed02c1f42fca14cd310daeec4532ed68b3322f0747f31778"
 metafile = true
 
 [[files]]
@@ -697,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "3d344bbdae049b22f4152a9670a928e0042f107dea458a53805ea919ebb682a3"
+hash = "d0b4fd0c3de094923c1370e6d6388c61356a15ab84db2217daacff4b754b4493"
 metafile = true
 
 [[files]]

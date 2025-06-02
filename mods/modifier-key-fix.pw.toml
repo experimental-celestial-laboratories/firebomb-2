@@ -1,0 +1,13 @@
+name = "Modifier Key Fix"
+filename = "ModifierKeyFix-1.1.0-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kkiQNV12/versions/XaMsgnJJ/ModifierKeyFix-1.1.0-1.20.1.jar"
+hash-format = "sha256"
+hash = "6a011683f693d4404c4ba600ca847d272ab808c9171b84f40c87696cbf4dc0fe"
+
+[update]
+[update.modrinth]
+mod-id = "kkiQNV12"
+version = "XaMsgnJJ"

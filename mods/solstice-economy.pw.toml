@@ -1,0 +1,13 @@
+name = "Solstice Economy"
+filename = "solstice-economy-0.2.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DvOrFxes/versions/6vPyw6Jd/solstice-economy-0.2.3.jar"
+hash-format = "sha512"
+hash = "c501ef906e2b28e0d693bae53e6a66d89c403112b12995b248939dfbd040477a42303e6d2e784f51e127fb4563867a796c9819b0177da20c2136642f661c0810"
+
+[update]
+[update.modrinth]
+mod-id = "DvOrFxes"
+version = "6vPyw6Jd"

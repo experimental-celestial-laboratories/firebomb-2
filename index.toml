@@ -576,6 +576,11 @@ hash = "2c3c0448ed22ce054cc33338bed223f73fbd9cb1b9f2613943b165980d61dbb4"
 metafile = true
 
 [[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "bd5da7d8a7ad3e58098c125ba7399ea5df61e56c5d2907475c6a4cefedd6134a"
+metafile = true
+
+[[files]]
 file = "mods/project-red-core.pw.toml"
 hash = "a757183f035020abf42793ee846a4fa856cf9c82094dd101684a2c3db6e89f28"
 metafile = true

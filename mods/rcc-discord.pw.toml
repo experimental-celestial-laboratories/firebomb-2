@@ -1,5 +1,6 @@
 name = "rcc-discord"
 filename = "rcc-discord-1.8.5.jar"
+side = "server"
 
 [download]
 url = "https://github.com/scmcgowen/rcc-discord/releases/download/v1.8.5/rcc-discord-1.8.5.jar"

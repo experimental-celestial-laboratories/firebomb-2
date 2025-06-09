@@ -14,3 +14,4 @@ version = "Az3ZmSEb"
 
 [option]
 optional = true
+description = "A mod that allows you to bind the function of the Escape key to any other key on your keyboard"

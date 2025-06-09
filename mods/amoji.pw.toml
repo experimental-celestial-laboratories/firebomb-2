@@ -1,0 +1,13 @@
+name = "Amoji"
+filename = "Amoji-1.0.1+1.20.1+forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lx8FqT7x/versions/RmKUSpVX/Amoji-1.0.1%2B1.20.1%2Bforge.jar"
+hash-format = "sha256"
+hash = "f0c01a55f067694853c6f990af1a214069b8bb97aadc14626fa28dc8f71a67eb"
+
+[update]
+[update.modrinth]
+mod-id = "lx8FqT7x"
+version = "RmKUSpVX"

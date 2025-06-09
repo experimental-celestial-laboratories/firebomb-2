@@ -14,3 +14,4 @@ version = "iQ1SwGc3"
 
 [option]
 optional = true
+description = "Forge port of the shader addon Iris for Sodium"

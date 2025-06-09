@@ -14,3 +14,4 @@ version = "vSDePnsB"
 
 [option]
 optional = true
+description = "A mod that implements an LOD to Minecraft, which many games use to give the player the ability to see far, without compromising on performance."

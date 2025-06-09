@@ -14,3 +14,4 @@ version = "fqgMU03D"
 
 [option]
 optional = true
+description = "Adds sound physics to Minecraft's sound engine, and to the voicechat mod"

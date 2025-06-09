@@ -36,6 +36,11 @@ hash = "3a3a880656d5485540693743fef4b12d3b1a940f8c93d498d07a5d4844368639"
 metafile = true
 
 [[files]]
+file = "mods/amoji.pw.toml"
+hash = "18b0c3a52aa4ca3fe156c170a16084d3b318434ab5445aeb8a0b70487886ea10"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "b218a766c81c7f0c4420db2f42d7b3f06831c124d2828247dd3ba4dd2ac8d759"
 metafile = true
@@ -118,11 +123,6 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "369a58454fa26265e214f0280843d35be57f704e543335c1cd994adab90e8ffe"
-metafile = true
-
-[[files]]
-file = "mods/cc-vs.pw.toml"
-hash = "b62b7d369eb65db2a61e6e0488dee99ecae973c6d070b4aef6a29c59edef299e"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "966ce54e14ca31ff2deebe62be5258bb7979f3d2d1278690386ec5e6bfd6128e"
+hash = "23f75d700f656dddc7e0ccd4ca792b2a2bf6ce8c82d69a8feea44b7f301711ff"
 metafile = true
 
 [[files]]
@@ -253,11 +253,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "e08a5cdd6ad9a3205e6f420afb635b55b43c09b256aa3bc707dc2083fd575e4c"
-metafile = true
-
-[[files]]
-file = "mods/eureka.pw.toml"
-hash = "0fa00aa7f1927617af2961b1203e93f433f0b652aaa8681af47693913c4ae2d5"
 metafile = true
 
 [[files]]
@@ -292,12 +287,12 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "7d7c4f18486e68559b1653cd552bd9b9e2913bdfad4405fd81c452193e905a1b"
+hash = "4e9529bea4514e261624bbbe68610f9d8a17e426e50c4f4bad7d3e4d389dc104"
 metafile = true
 
 [[files]]
 file = "mods/fixescape.pw.toml"
-hash = "ebec63804e44f1019efc0d845b67866e8d2781c4f4a3066583a0e49e76eba163"
+hash = "075c08413c8da6742c7044e52dcb3db3c37dfa2b9b7e68b5f813b7977ff5060b"
 metafile = true
 
 [[files]]
@@ -308,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "7a18e3c4494fd42366d925147a582d299ecb33b191061fcae9293712446e2ecb"
+metafile = true
+
+[[files]]
+file = "mods/forgematica.pw.toml"
+hash = "7f64ea77637d5a729647ce3eb5dd081cd3ca2fc948e410aa09fa0345dfaa86c6"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "3bd4bb860f401e15bd39661fc1fd41c15601bd8200d0a78df59ba68174a8d52e"
+hash = "235fa36bb7db19a92a686ffb5de9fa7d9d4dc1df7dce4b4bd67381861ce93ebd"
 metafile = true
 
 [[files]]
@@ -671,11 +671,6 @@ hash = "58f5287a228d8feeed9ff1110b71cea3520b7c26187fa957834b65ac28044bda"
 metafile = true
 
 [[files]]
-file = "mods/simple-clouds.pw.toml"
-hash = "fa01bf45ec4e0911dee256fef0ff4dff66524d24edf2c0ae9c9eace86249a60a"
-metafile = true
-
-[[files]]
 file = "mods/simple-radio.pw.toml"
 hash = "78f108f9bfdd6a2cfe5dee3d5dc242473e7749fb5f235cfc22a80ba0cbc77be7"
 metafile = true
@@ -712,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "2b33c82c931235b027c5d9febbe9784bbe8063e0b0e4451721ffa7214bbfa209"
+hash = "70b7ec89dcf720df9e99fd857ac1f8e1869111d5bf2ac3b715d3489fb69951fc"
 metafile = true
 
 [[files]]
@@ -806,11 +801,6 @@ hash = "4531f44fc9329bc9b68f1276c2e53a80e2ba7a951af9f6cc779093fd3c09f397"
 metafile = true
 
 [[files]]
-file = "mods/tis-vs.pw.toml"
-hash = "90266bc9ad88855d3a90b49b38cfb44ecb9f66689f8a3a9b135c305b50211a1c"
-metafile = true
-
-[[files]]
 file = "mods/tis3d.pw.toml"
 hash = "6c538c40884b4089d7928c6302ede29c87394cdba41b5b652e2cfc6e4587a4d6"
 metafile = true
@@ -828,16 +818,6 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "4871c2b47b709d1afc9cc8042525a48a07c4d43e5c186a92a0b31ef57417bed9"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "0b3249fe11ae8be23c9e60ba872681d9ea5e06c1d83f7018871db7c6ee25f57d"
-metafile = true
-
-[[files]]
-file = "mods/vs-tournament.pw.toml"
-hash = "e362fcf4aad50568953cd6ae6ee5605f47b0b5d47c2a72410a11fab9694072f2"
 metafile = true
 
 [[files]]

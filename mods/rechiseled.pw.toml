@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/B0g2vT6l/versions/C384ujVf/rechiseled-1.1.6-forge-mc1.20.jar"
-hash-format = "sha256"
-hash = "5ef5676653a1f15af86841d55f1963e1fc9066cbb87e59d82569467f086425eb"
+hash-format = "sha512"
+hash = "2be090e73f8ded2c140d277a1997020286f344ecb2e87e762e0d9ce5d29e9f158381c0100e257136dd2460e2e320cbeed956f656d4b36e58040b9bb07517935e"
 
 [update]
 [update.modrinth]

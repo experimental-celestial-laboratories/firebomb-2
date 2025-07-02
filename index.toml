@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "3a3a880656d5485540693743fef4b12d3b1a940f8c93d498d07a5d4844368639"
+hash = "f6cb39881349ebcd51d5ea8563110dd0fb861b66c18f7a261eabe1ef41563cd2"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "a876aaa9cea285d068b936a8196b231e896ad19b9dde0c1eef03a3e4c7a649c8"
+hash = "97f7c75ac9bf6ee2a4f15c0f1e3e4cd161f3d2e33f32ebf623811ac90b3c2a83"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "e2799f76dff38d855f3f17eff9d22ee536b8066f9ef8a1bccf8d70c8eb4a4bca"
+hash = "06a409420d90005c7a65dca4fa68b5ae0d43b37343953950a163cda11a477190"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "4e9529bea4514e261624bbbe68610f9d8a17e426e50c4f4bad7d3e4d389dc104"
+hash = "a11e19cf0e4dab2ed48992e7f1261427c621b8363f94989e6440e270c39da0c1"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "66251b8f4e40ff56445c41b7d802e16d95de5609315011094f9258cdb8313f2b"
+hash = "667dacb1193a887bc068a3c819839e06c82959d2ba61c85736296420ed334579"
 metafile = true
 
 [[files]]
@@ -628,11 +628,6 @@ metafile = true
 [[files]]
 file = "mods/rcc-library.pw.toml"
 hash = "e831fc2532f65078ef51cbd047ea0c2cb9d45881c2e73f404bc6847458c59a31"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled-create.pw.toml"
-hash = "d4eeb6fb9c4296ad9d7cbb869f6e7b24712605bf9168c7e94832cb0830ef680a"
 metafile = true
 
 [[files]]
@@ -727,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b40da73c75e7e5634bab204a45c7de4b5daa860f84bd433874280a75a98e39f4"
+hash = "f6c954e1a4975019ca2378277aad87f2283aef9bf572ef8ccf59897449c752b2"
 metafile = true
 
 [[files]]

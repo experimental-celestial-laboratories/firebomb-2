@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Biomes O' Plenty"
+filename = "dtbop-3.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8QHjGuhP/versions/YZ8VDP0n/dtbop-3.4.0.jar"
+hash-format = "sha512"
+hash = "6aa2c96eaad69ba271bd90d394129e8afa02e23d0b0f07704f7c2e781cde741dbaab87cd059fc3a99bf9bc0a3fa0c3da37f7b4aae0c5f551fc7e206a401f750b"
+
+[update]
+[update.modrinth]
+mod-id = "8QHjGuhP"
+version = "YZ8VDP0n"

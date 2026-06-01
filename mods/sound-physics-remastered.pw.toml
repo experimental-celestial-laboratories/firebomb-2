@@ -1,17 +1,13 @@
 name = "Sound Physics Remastered"
-filename = "sound-physics-remastered-forge-1.20.1-1.4.13.jar"
-side = "client"
+filename = "sound-physics-remastered-neoforge-1.21.1-1.4.6.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/fqgMU03D/sound-physics-remastered-forge-1.20.1-1.4.13.jar"
-hash-format = "sha256"
-hash = "bfd067ee45b7f2309934155fc5202810bea62e9866c690ec3cb4958324b08d59"
+url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/N3uoEoK5/sound-physics-remastered-neoforge-1.21.1-1.4.6.jar"
+hash-format = "sha512"
+hash = "3eacce2838004834eca9eb35f344efe01dc7f5b2d854db82ef6556d760bad6ea2a6fa765f0cd0b7ad02837a09847bfb7a4d83df85014ed6be6ed72d9f50cda65"
 
 [update]
 [update.modrinth]
 mod-id = "qyVF9oeo"
-version = "fqgMU03D"
-
-[option]
-optional = true
-description = "Adds sound physics to Minecraft's sound engine, and to the voicechat mod"
+version = "N3uoEoK5"

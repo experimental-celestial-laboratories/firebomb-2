@@ -1,13 +1,13 @@
 name = "Resourceful Config"
-filename = "resourcefulconfig-forge-1.20.1-2.1.3.jar"
+filename = "resourcefulconfig-neoforge-1.21-3.0.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/M1953qlQ/versions/DERs8u7v/resourcefulconfig-forge-1.20.1-2.1.3.jar"
-hash-format = "sha256"
-hash = "c404b9e5cf8595427a72d4ca6ee5730289168762b463f169be3ae5dfe3727ded"
+url = "https://cdn.modrinth.com/data/M1953qlQ/versions/lSbyRD6v/resourcefulconfig-neoforge-1.21-3.0.11.jar"
+hash-format = "sha512"
+hash = "8e4ccc37732b3f5190e7e98df34dbc1339fe614494fcabf1aeaeab9ad8e5993522964b51be31882000c08c48a6d0096b5458364415bb81f2b2b775a7daf2eb87"
 
 [update]
 [update.modrinth]
 mod-id = "M1953qlQ"
-version = "DERs8u7v"
+version = "lSbyRD6v"

@@ -1,0 +1,13 @@
+name = "NoreTeams"
+filename = "noreteams-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pgJ1Bj81/versions/EVdKgfIb/noreteams-0.1.2.jar"
+hash-format = "sha512"
+hash = "a91d1da8f90da8b88dd38133e018cbb552fa2eabfdc231185bdcd8743ed43a55d4326c465cd3d1a8baf98aa6f78e4ea08eb12b00e93f5edb22176f561a246e8c"
+
+[update]
+[update.modrinth]
+mod-id = "pgJ1Bj81"
+version = "EVdKgfIb"

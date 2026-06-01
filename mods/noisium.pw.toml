@@ -1,8 +1,0 @@
-name = "noisium"
-filename = "noisium-forge-2.3.0+mc1.20-1.20.1.jar"
-side = "server"
-
-[download]
-url = "https://github.com/Steveplays28/noisium/releases/download/v2.3.0%2Bmc1.20-1.20.1/noisium-forge-2.3.0+mc1.20-1.20.1.jar"
-hash-format = "sha256"
-hash = "b0b020250c81e8cce7776c3dc8f7085f269e2007570d5fbd492c4497ad60685c"

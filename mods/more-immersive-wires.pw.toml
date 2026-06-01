@@ -1,13 +1,13 @@
 name = "More Immersive Wires"
-filename = "more-immersive-wires-1.20.1-1.1.4.jar"
+filename = "more-immersive-wires-1.21.1-1.1.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ekzqyEZL/versions/rOtPDeCT/more-immersive-wires-1.20.1-1.1.4.jar"
-hash-format = "sha256"
-hash = "e3158d211a3dac5d17ae760779c7595800be248852ec8a6d8c257b125bc977fb"
+url = "https://cdn.modrinth.com/data/ekzqyEZL/versions/87TfvCVW/more-immersive-wires-1.21.1-1.1.9.jar"
+hash-format = "sha512"
+hash = "72f505491c4fd86e3ad00b9d967ef869eba610b1aae97d5d3d7a3a8fa437a449cd94580581840fd70942b6341f570c484b18ffa448d1cba0cde80845ed7aefd0"
 
 [update]
 [update.modrinth]
 mod-id = "ekzqyEZL"
-version = "rOtPDeCT"
+version = "87TfvCVW"

@@ -1,13 +1,13 @@
 name = "BetterF3"
-filename = "BetterF3-7.0.2-Forge-1.20.1.jar"
+filename = "BetterF3-11.0.3-NeoForge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "e46ced73bdf78a59573a7188cfbe7256353f21a67eef752dc39b5e5816fc61c0"
+hash-format = "sha1"
+hash = "8fa17df26d3650416bc124be7a264bc1566a3b26"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4863626
+file-id = 5873258
 project-id = 401648

@@ -1,8 +1,0 @@
-name = "rcc-discord"
-filename = "rcc-discord-1.8.5.jar"
-side = "server"
-
-[download]
-url = "https://github.com/scmcgowen/rcc-discord/releases/download/v1.8.5/rcc-discord-1.8.5.jar"
-hash-format = "sha256"
-hash = "ca085b762c8de7211613d0f3dfa651f52098476a2382fa0eac7bf4391f340dd0"

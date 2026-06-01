@@ -105,6 +105,11 @@ hash = "f8beefa0455fab90e32f440ccd67242aa4891951419c5b16b2af29821a565934"
 metafile = true
 
 [[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "c5adc29c7b5aa88587ab54f39d654216bb087e767727a182a4bf44f98228ba5c"
+metafile = true
+
+[[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "c09e2c7df60d3d247a443a8b788d1fc55278246e3e1e151b5a27e31b01ee0dbc"
 metafile = true
@@ -435,6 +440,11 @@ hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "039bf6dad6f4669b586b65a9ca91bd5626c28ca9e9e369031607d93f055c6b37"
+metafile = true
+
+[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "b00f8b696187f092a939b7bbbf2ad2f249665776465bac594e2d0f4f37d36dc4"
 metafile = true
@@ -567,6 +577,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "3c6086054d62b598cc1c8156ff03048d72284b20b0f8aff7a9c42c5710bb5675"
+metafile = true
+
+[[files]]
+file = "mods/ore-excavation.pw.toml"
+hash = "7945b7537033e8b6c7143d906e8ffc8ead7aae1fdc3d3d73ff7fdaa60aab3a8b"
 metafile = true
 
 [[files]]
@@ -732,6 +747,16 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "9cfdabfae56ec49c0c3939640e3149a2deebd33dc342f3585e0c82b9ac326ab6"
+metafile = true
+
+[[files]]
+file = "mods/tacz-1.21.1.pw.toml"
+hash = "6f3afa4d434d61b2c08310e687673fdfe56cee59e245c06f8bcccaf16a682344"
+metafile = true
+
+[[files]]
+file = "mods/tacz-aeronautics-compat.pw.toml"
+hash = "fdfb333d3e3c0de5572ebe6c8099eaa1b0226960644fc4c1be6aa688c7e3731d"
 metafile = true
 
 [[files]]

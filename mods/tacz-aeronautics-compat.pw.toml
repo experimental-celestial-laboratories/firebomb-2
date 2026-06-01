@@ -1,0 +1,13 @@
+name = "TACZ Aeronautics compat"
+filename = "tacz_aero_compat-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jgOzA8I4/versions/EleLf91k/tacz_aero_compat-1.7.0.jar"
+hash-format = "sha512"
+hash = "008da808a40b41f30f4f5b5863c320014379dffccbed2cc9c9c38f6e9cdf6ed5b764a3f0fe05ae7a45d63bd7682919ff26ebac3fff7c1bb3f5f3f76537fdd4b1"
+
+[update]
+[update.modrinth]
+mod-id = "jgOzA8I4"
+version = "EleLf91k"

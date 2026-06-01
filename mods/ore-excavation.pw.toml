@@ -1,0 +1,13 @@
+name = "Ore Excavation"
+filename = "OreExcavation-NeoForge-1.21-1.16.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ODQeqCgz/versions/39DxyuAZ/OreExcavation-NeoForge-1.21-1.16.14.jar"
+hash-format = "sha512"
+hash = "1fbcfec53cd6fb87d71632b7ee23e742b20203f42ed749a8cd898c045d738f64ba94886205fcca9b827e9b5ed15db353976f7ea7c1871beafdb08d5c414a7c9d"
+
+[update]
+[update.modrinth]
+mod-id = "ODQeqCgz"
+version = "39DxyuAZ"

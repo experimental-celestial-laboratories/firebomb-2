@@ -555,11 +555,6 @@ hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
 metafile = true
 
 [[files]]
-file = "mods/neoforged-velocity-support.pw.toml"
-hash = "37a37e87c28fb0022ae058408ad147e796a95ef5efdccb9e802bc9369305e366"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
@@ -637,6 +632,11 @@ metafile = true
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
 hash = "e97960a5909e986c8f967fcaf155d961359cff8d25292025b326d792b2496371"
+metafile = true
+
+[[files]]
+file = "mods/proxy-compatible-forge.pw.toml"
+hash = "c80a96963f867c8c01c8e72df13abc9e97bc9ae99575b94fd95605875c60b88b"
 metafile = true
 
 [[files]]

@@ -555,6 +555,11 @@ hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
 metafile = true
 
 [[files]]
+file = "mods/neoforged-velocity-support.pw.toml"
+hash = "37a37e87c28fb0022ae058408ad147e796a95ef5efdccb9e802bc9369305e366"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true

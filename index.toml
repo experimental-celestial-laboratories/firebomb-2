@@ -815,6 +815,16 @@ hash = "7389025d1fa215f56e9ecabf6f84e4092271322de1ec28f3a835b9e7b13238bb"
 metafile = true
 
 [[files]]
+file = "mods/watermedia-binaries.pw.toml"
+hash = "03c2bc9e406cebc8c70dbdb7cb7e1592e9c41c2d8c2c57ff65f9b1e1501cf4f2"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "a71321ce54906ae436ab1534b91fd30bded062cedd3afb8d365d1bba17693ef7"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "6469e09b6d02aa3f1aeb653c9e33ec948e2bd9d09cabc60a834552783120c018"
 metafile = true

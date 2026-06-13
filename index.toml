@@ -660,6 +660,11 @@ hash = "79ac35ba2d4a1ae04f92db5c3b10821970dde8153d7877566eef2ed7e650146b"
 metafile = true
 
 [[files]]
+file = "mods/rcc-discord.pw.toml"
+hash = "e44d79dfb16aadb6be55e0c5b4a0adecf13486a47876f39e0fdc122e27488941"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "e3e04f1664902e639c5d1df39cc8085fdece053827479b452ac728bcd3604c13"
 metafile = true

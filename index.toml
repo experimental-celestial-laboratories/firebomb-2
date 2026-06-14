@@ -661,12 +661,12 @@ metafile = true
 
 [[files]]
 file = "mods/rcc-discord.pw.toml"
-hash = "8fe616ac1688cbea72ed6cc99dd11cd80a18ac00ba736b41f04c2b5434971980"
+hash = "a8f72dc75d513cd3296577bff97d035f7abac06f46a130b7242dfa6f9cf17c31"
 metafile = true
 
 [[files]]
 file = "mods/rcc-library.pw.toml"
-hash = "aa307da3e5ae7c559f91a1b751210440fde4836b461506cfe84d95d93729ce20"
+hash = "b3ccd291331f592eb080335131f66fc0ceba3284def6c22603750f34610d10ba"
 metafile = true
 
 [[files]]

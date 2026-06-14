@@ -1,6 +1,6 @@
 name = "rcc-discord"
 filename = "rcc-discord-1.9.0+1.21.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://dl.herrkatze.com/rcc-discord-1.9.0%2B1.21.1.jar"

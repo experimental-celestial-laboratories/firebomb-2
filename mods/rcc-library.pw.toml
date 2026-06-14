@@ -1,6 +1,6 @@
 name = "rcc-library"
 filename = "rcc-library-1.0.2+1.21.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://dl.herrkatze.com/rcc-library-1.0.2%2B1.21.1.jar"

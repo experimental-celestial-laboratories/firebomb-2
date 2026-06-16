@@ -150,11 +150,6 @@ hash = "7dfcb98086a3504e8ed24f9f64528a2435fdc19f8fb232d99aa46b7dc2c3aacb"
 metafile = true
 
 [[files]]
-file = "mods/collective.pw.toml"
-hash = "0dd0604d6a0ec3e4f2466f9de969e6a205df7a1a4ac59e40d4a14d616ffa355a"
-metafile = true
-
-[[files]]
 file = "mods/colorwheel.pw.toml"
 hash = "21399291eab26dc16a3d3455b4388df2bc42512570729dbcdd60697c1a84fd77"
 metafile = true
@@ -292,11 +287,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
-metafile = true
-
-[[files]]
-file = "mods/every-compat.pw.toml"
-hash = "688cbfbaac97d3c9089bf2afa43bfd920ae8f4d210ad892b8ea52177bed67949"
 metafile = true
 
 [[files]]
@@ -552,11 +542,6 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
-metafile = true
-
-[[files]]
-file = "mods/mimi.pw.toml"
-hash = "5a3cb15ece27aaca83bc167468bbad97b3f964b8889e3c067e244decd126b7a2"
 metafile = true
 
 [[files]]
@@ -825,16 +810,6 @@ hash = "fdfb333d3e3c0de5572ebe6c8099eaa1b0226960644fc4c1be6aa688c7e3731d"
 metafile = true
 
 [[files]]
-file = "mods/tacz-pack-upgrader.pw.toml"
-hash = "1f3cec54049e8cb68e47c46deb0962f1e2554f77baeac925fb340d178e804263"
-metafile = true
-
-[[files]]
-file = "mods/tacz-tweaks.pw.toml"
-hash = "c0152ef7e900cea40169539a021330efa66c4da3ee85df930fcdc12c61dc3ebe"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
@@ -870,16 +845,6 @@ hash = "7389025d1fa215f56e9ecabf6f84e4092271322de1ec28f3a835b9e7b13238bb"
 metafile = true
 
 [[files]]
-file = "mods/veinminer-client.pw.toml"
-hash = "4c501b118370f8a6c73388787e820a9ddc96f4b63d654484e352f09704a23c77"
-metafile = true
-
-[[files]]
-file = "mods/veinminer.pw.toml"
-hash = "5c0770a75c9bf48611d0fe965d6653f6904640170b42552eb25ace717a41ee6d"
-metafile = true
-
-[[files]]
 file = "mods/watermedia-binaries.pw.toml"
 hash = "03c2bc9e406cebc8c70dbdb7cb7e1592e9c41c2d8c2c57ff65f9b1e1501cf4f2"
 metafile = true
@@ -892,11 +857,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "6469e09b6d02aa3f1aeb653c9e33ec948e2bd9d09cabc60a834552783120c018"
-metafile = true
-
-[[files]]
-file = "mods/world-border.pw.toml"
-hash = "2a63a827fae0e66c6c1472302f3b06e1281cc016bfb130bdf51926fab1315cb2"
 metafile = true
 
 [[files]]

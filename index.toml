@@ -821,7 +821,7 @@ metafile = true
 
 [[files]]
 file = "mods/tacz-aeronautics-compat.pw.toml"
-hash = "9b0efc6327054eae3121ba7a29bb8e78d337f387d915785e2bfc4852a7728dc3"
+hash = "fdfb333d3e3c0de5572ebe6c8099eaa1b0226960644fc4c1be6aa688c7e3731d"
 metafile = true
 
 [[files]]

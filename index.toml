@@ -435,6 +435,11 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-lang-forge.pw.toml"
+hash = "f22b9b2717d5c14f4d1f43329e1a9afc71806a1c311108b4ae0db858e9d90569"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
 metafile = true
@@ -837,6 +842,16 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "7389025d1fa215f56e9ecabf6f84e4092271322de1ec28f3a835b9e7b13238bb"
+metafile = true
+
+[[files]]
+file = "mods/veinminer-client.pw.toml"
+hash = "4c501b118370f8a6c73388787e820a9ddc96f4b63d654484e352f09704a23c77"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "5c0770a75c9bf48611d0fe965d6653f6904640170b42552eb25ace717a41ee6d"
 metafile = true
 
 [[files]]

@@ -150,6 +150,11 @@ hash = "7dfcb98086a3504e8ed24f9f64528a2435fdc19f8fb232d99aa46b7dc2c3aacb"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "0dd0604d6a0ec3e4f2466f9de969e6a205df7a1a4ac59e40d4a14d616ffa355a"
+metafile = true
+
+[[files]]
 file = "mods/colorwheel.pw.toml"
 hash = "21399291eab26dc16a3d3455b4388df2bc42512570729dbcdd60697c1a84fd77"
 metafile = true
@@ -172,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked-forked.pw.toml"
+hash = "a46ca4af9976720616c93d993965bd15317ed82746230c702c55eaf447be88fd"
 metafile = true
 
 [[files]]
@@ -550,6 +560,11 @@ hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
 metafile = true
 
 [[files]]
+file = "mods/mimi.pw.toml"
+hash = "5a3cb15ece27aaca83bc167468bbad97b3f964b8889e3c067e244decd126b7a2"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "9cfd0d92c447351794fc60be7dd36fc4b8198fd083e9a9f5a4f314a1f32ad1ea"
 metafile = true
@@ -811,7 +826,17 @@ metafile = true
 
 [[files]]
 file = "mods/tacz-aeronautics-compat.pw.toml"
-hash = "fdfb333d3e3c0de5572ebe6c8099eaa1b0226960644fc4c1be6aa688c7e3731d"
+hash = "9b0efc6327054eae3121ba7a29bb8e78d337f387d915785e2bfc4852a7728dc3"
+metafile = true
+
+[[files]]
+file = "mods/tacz-pack-upgrader.pw.toml"
+hash = "1f3cec54049e8cb68e47c46deb0962f1e2554f77baeac925fb340d178e804263"
+metafile = true
+
+[[files]]
+file = "mods/tacz-tweaks.pw.toml"
+hash = "c0152ef7e900cea40169539a021330efa66c4da3ee85df930fcdc12c61dc3ebe"
 metafile = true
 
 [[files]]
@@ -877,6 +902,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "6469e09b6d02aa3f1aeb653c9e33ec948e2bd9d09cabc60a834552783120c018"
+metafile = true
+
+[[files]]
+file = "mods/world-border.pw.toml"
+hash = "2a63a827fae0e66c6c1472302f3b06e1281cc016bfb130bdf51926fab1315cb2"
 metafile = true
 
 [[files]]

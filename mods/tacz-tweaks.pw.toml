@@ -1,0 +1,13 @@
+name = "TaCZ Tweaks"
+filename = "tacz-tweaks-3.0.0-alpha.9+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H8peNuJG/versions/LX0abTbh/tacz-tweaks-3.0.0-alpha.9%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "2a76f2e7f14d0a24fb110b7d768a21b3bf54ee69db9e63ae18a2ff1ff2341b8702522b6f696347a55444d85fae228ccb64d1b9c538cb1d09ca17009857e086c2"
+
+[update]
+[update.modrinth]
+mod-id = "H8peNuJG"
+version = "LX0abTbh"

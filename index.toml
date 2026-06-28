@@ -710,11 +710,6 @@ hash = "79ac35ba2d4a1ae04f92db5c3b10821970dde8153d7877566eef2ed7e650146b"
 metafile = true
 
 [[files]]
-file = "mods/rcc-discord.pw.toml"
-hash = "a8f72dc75d513cd3296577bff97d035f7abac06f46a130b7242dfa6f9cf17c31"
-metafile = true
-
-[[files]]
 file = "mods/rcc-library.pw.toml"
 hash = "b3ccd291331f592eb080335131f66fc0ceba3284def6c22603750f34610d10ba"
 metafile = true
@@ -785,13 +780,18 @@ hash = "a4af1bf7389eddd65fb5b665b711e0b25e9e8ccb6b17a1fb50aff8d886859ad6"
 metafile = true
 
 [[files]]
+file = "mods/smpcord.pw.toml"
+hash = "ddc008bdad276d177055205d77a012ff1f838693d1fb95577e8c44ecc3c3c67e"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "25324a8a9cdc663d3d1952191e873f87531011715de49673cbf7c1b0da0504d6"
 metafile = true
 
 [[files]]
 file = "mods/solstice-essentials.pw.toml"
-hash = "a8c3a1bfe49378683894991fe185bdae4ddff30de90e5134e568c6fed37c5063"
+hash = "35572e32cfc14d001b5bbb8e3c74443bbcd69af482238653937e574719b19d12"
 metafile = true
 
 [[files]]

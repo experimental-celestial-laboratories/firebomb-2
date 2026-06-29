@@ -205,6 +205,11 @@ hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
 
 [[files]]
+file = "mods/create-industry.pw.toml"
+hash = "27ba9439d6b25314cfca911c474a9a34933dc7a25b4ee42ae3f2782f8d03b676"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "85048cc2c3269c990d551c6ebe5058662087ea5eb89e9da9ade81e3637654934"
 metafile = true
@@ -241,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
@@ -427,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
+metafile = true
+
+[[files]]
+file = "mods/immersivepetroleum.pw.toml"
+hash = "3eafdfa8267d75e9f90b7bebaca1529591a9d7651f312f8091f0adfcac19724f"
 metafile = true
 
 [[files]]
@@ -791,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "mods/solstice-essentials.pw.toml"
-hash = "a8c3a1bfe49378683894991fe185bdae4ddff30de90e5134e568c6fed37c5063"
+hash = "35572e32cfc14d001b5bbb8e3c74443bbcd69af482238653937e574719b19d12"
 metafile = true
 
 [[files]]

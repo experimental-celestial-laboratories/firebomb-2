@@ -1,13 +1,13 @@
 name = "VeinMiner Hotkey"
-filename = "veinminer-client-neoforge-2.10.1+1.21.1.jar"
+filename = "veinminer-client-neoforge-2.11.2+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/dxa0Bm8m/versions/W6fcQL5F/veinminer-client-neoforge-2.10.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/dxa0Bm8m/versions/dIwSWhIM/veinminer-client-neoforge-2.11.2%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "946493767a429f5c11ec6c21c064d87376296d0f51094e9e48572b7b0e802599ad80ff2be910fa2972e8a9c77ecb82e40e0000adb2232b6e8471bb79ce04e163"
+hash = "7ad476f80a5aee3b030d161f3be643cf01622cce254b9779b8d37137693cd6a9d4740c00ee94e265873b14ab19aa18cc9fb9324e5e9669bb9dc94d34c1c2679e"
 
 [update]
 [update.modrinth]
 mod-id = "dxa0Bm8m"
-version = "W6fcQL5F"
+version = "dIwSWhIM"

@@ -150,6 +150,11 @@ hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
+file = "mods/classicperipherals.pw.toml"
+hash = "1936b767e1a8f45a51950f80fe358f6809261adbb9bfd56e408fd2bc0ee667bc"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -187,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-toolgun.pw.toml"
+hash = "bdd4a0cccfcd1268f0096748aa22c133d4b6f80960e3180baf12b3f5765cd7b4"
 metafile = true
 
 [[files]]
@@ -327,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/dynamictreesplus.pw.toml"
 hash = "a8bd418c6fa0d8fafaeeff65467261713ddd0698f4bd7d6e08b4df8f78303910"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
 
 [[files]]

@@ -465,8 +465,8 @@ hash = "07deb48161a03d4e701eb50da02343b06585fc04f2328aee5a9ad4bc62c2686a"
 metafile = true
 
 [[files]]
-file = "mods/industrialized-architecture.pw.toml"
-hash = "be17370c2f959697b1d75cf87036b58bdb01c45de9205c9e7ee8c7f354078ee9"
+file = "mods/industrial-architecture.pw.toml"
+hash = "9a99f2da571c75b0e8658a9a48fab880bd7a8d02613e880b87b203297d35f51d"
 metafile = true
 
 [[files]]

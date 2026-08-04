@@ -1,8 +1,0 @@
-name = "rcc-library"
-filename = "rcc-library-1.0.2+1.21.1.jar"
-side = "server"
-
-[download]
-url = "https://dl.herrkatze.com/rcc-library-1.0.2%2B1.21.1.jar"
-hash-format = "sha256"
-hash = "3860694dc598d2baba20b7113770db44dc2129e89f3a90a39d0e5011a1f8cd30"

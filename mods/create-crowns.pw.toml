@@ -1,13 +1,13 @@
 name = "Create : CROWNS"
-filename = "crowns-1.21.1-2.2.3.jar"
+filename = "crowns-1.21.1-2.2.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RCsqeVSp/versions/i2KVbBro/crowns-1.21.1-2.2.3.jar"
+url = "https://cdn.modrinth.com/data/RCsqeVSp/versions/oXIJWFli/crowns-1.21.1-2.2.5.jar"
 hash-format = "sha512"
-hash = "d5ac56ef9bd8f1822f4bffe4eb4054ccdcf0a68722bdf68617ca5f25639b5ef0fa71aa204e96d4312c424573d29897a2df73f81ac357b195a03f9dbea88b8c8b"
+hash = "3584ad1ca83ae086c584a84067c64db5f34cd3f15b3fc7e78edac04eded041e0af9ae946f067c13fe9bb475f20f2ce9348e3cc8a1dadd96627bfa1f503899393"
 
 [update]
 [update.modrinth]
 mod-id = "RCsqeVSp"
-version = "i2KVbBro"
+version = "oXIJWFli"

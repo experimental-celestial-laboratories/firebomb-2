@@ -1,13 +1,13 @@
 name = "Project Red Transmission"
-filename = "ProjectRed-1.21.1-4.22.0-transmission.jar"
+filename = "ProjectRed-1.21.1-4.23.0-transmission.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dXmH4rEw/versions/uCCUxgX5/ProjectRed-1.21.1-4.22.0-transmission.jar"
+url = "https://cdn.modrinth.com/data/dXmH4rEw/versions/YCCf1wi9/ProjectRed-1.21.1-4.23.0-transmission.jar"
 hash-format = "sha512"
-hash = "c0cc5af3972620e46a837891e502732c8bf3ddc81ffc3b92427e892e09725962db96adbc25051630438edb3a1ac37478fd6f6a019d0b562cd2dabbf42deb3e6b"
+hash = "e5911856eb2e4f4604a47e5bb7b37733171a5889a183e5b72b45c0d1fd9e8edbbae63419d2c07a3d4817c46ee93ad6c3f03fc8deaa642d2bb23d1487fd32edf9"
 
 [update]
 [update.modrinth]
 mod-id = "dXmH4rEw"
-version = "uCCUxgX5"
+version = "YCCf1wi9"

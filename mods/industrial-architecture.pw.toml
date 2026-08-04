@@ -1,0 +1,8 @@
+name = "industrial-architecture"
+filename = "i_architecture-0.1.1b.jar"
+side = "both"
+
+[download]
+url = "https://fs.hri7566.info/mods/i_architecture-0.1.1b.jar"
+hash-format = "sha256"
+hash = "295edfb0f3dec36bc294debe377425a9ad21f7ce98305ca9f7b03d4b0605a544"

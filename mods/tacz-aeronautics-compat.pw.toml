@@ -1,13 +1,13 @@
 name = "TACZ Aeronautics compat"
-filename = "tacz_aero_compat-1.7.0.jar"
+filename = "tacz_aero_compat-1.8.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jgOzA8I4/versions/EleLf91k/tacz_aero_compat-1.7.0.jar"
+url = "https://cdn.modrinth.com/data/jgOzA8I4/versions/maK19KHR/tacz_aero_compat-1.8.0.jar"
 hash-format = "sha512"
-hash = "008da808a40b41f30f4f5b5863c320014379dffccbed2cc9c9c38f6e9cdf6ed5b764a3f0fe05ae7a45d63bd7682919ff26ebac3fff7c1bb3f5f3f76537fdd4b1"
+hash = "b0f33ea2a7c85d00e5c973b7e3433db33d2283ad4005f67e0d7c9f9f87aa5fdbec755d5049ce669644501e3e22e41b1700c6dc5d69f5a71780846d2ce17cc923"
 
 [update]
 [update.modrinth]
 mod-id = "jgOzA8I4"
-version = "EleLf91k"
+version = "maK19KHR"

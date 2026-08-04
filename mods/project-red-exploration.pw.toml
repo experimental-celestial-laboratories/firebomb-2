@@ -1,13 +1,13 @@
 name = "Project Red Exploration"
-filename = "ProjectRed-1.21.1-4.22.0-exploration.jar"
+filename = "ProjectRed-1.21.1-4.23.0-exploration.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TVQMH6pX/versions/JPs122sm/ProjectRed-1.21.1-4.22.0-exploration.jar"
+url = "https://cdn.modrinth.com/data/TVQMH6pX/versions/PqBN7SGy/ProjectRed-1.21.1-4.23.0-exploration.jar"
 hash-format = "sha512"
-hash = "4a1f11d0dda4a724888dc790460c648f4b1404395b8ebc314f43ae0e2d369263847bc94c401e5ba4adddeff613d50ea909bd55effba58235daa2da0f5ee2699e"
+hash = "96ca3403354aa308b974b4bbf0625daa76c84d079298d768311c988071a0e0408bb9780dbd83dba346176f476260c93d9d0703634745527e1b9b46ed3eba61bb"
 
 [update]
 [update.modrinth]
 mod-id = "TVQMH6pX"
-version = "JPs122sm"
+version = "PqBN7SGy"
